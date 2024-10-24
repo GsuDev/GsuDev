@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Welcome to My GitHub!
 
-<!--
-**GsuDev/GsuDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm currently a **1st-year student** of **DAM (Desarrollo de Aplicaciones Multiplataforma)**. 🚀 Here you'll find a collection of my projects, scripts, and experiments as I learn and grow as a developer. I'm passionate about coding, problem-solving, and building solutions with the tools I'm learning.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Work With
+- **Python** 🐍: My go-to language for automation, data analysis, and general-purpose programming.
+- **Kotlin** ☕: Developing cross-platform applications.
+- **HTML & CSS** 🌐: Crafting websites with responsive design.
+- **MATLAB** 🧠: Exploring mathematical modeling and data visualization.
+- **Arduino** 🤖: Playing with hardware and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗂️ What You'll Find Here
+In this repository, you'll find:
+- 📂 Projects from my coursework and personal experiments.
+- 🔧 Tools and scripts I use in my daily workflow.
+- 💡 Ideas and solutions to real-world problems.
+
+Feel free to explore, contribute, or reach out if you have any suggestions! I'm always eager to learn from others.
+
+---
+
+### 🚀 Let's Code and Create Awesome Stuff Together!
