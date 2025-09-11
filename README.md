@@ -1,6 +1,6 @@
 # 👨‍💻 Welcome to My GitHub!
 
-Hello! I'm currently a **1st-year student** of **DAM (Desarrollo de Aplicaciones Multiplataforma)**. 🚀 Here you'll find a collection of my projects, scripts, and experiments as I learn and grow as a developer. I'm passionate about coding, problem-solving, and building solutions with the tools I'm learning.
+Hello! I'm currently a **2nd-year student** of **DAW (Desarrollo de Aplicaciones Web)**. 🚀 Here you'll find a collection of my projects, scripts, and experiments as I learn and grow as a developer. I'm passionate about coding, problem-solving, and building solutions with the tools I'm learning.
 
 ## 🔧 Technologies I Work With
 - **Python** 🐍: My go-to language for automation, data analysis, and general-purpose programming.
